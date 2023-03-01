@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-![Cruddur Screenshot](_docs/assets/cruddur_logical_diagram.png)
+![Cruddur Screenshot](_docs/assets/cruddur_logical_diagram.jpg)
 
 ## Recreated Cruddur Logical Diagram vis lucid app
 
