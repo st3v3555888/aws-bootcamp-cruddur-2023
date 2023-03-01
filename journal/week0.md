@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-![alt text](https://github.com/st3v3555888/aws-bootcamp-cruddur-2023/tree/main/_docs/assets/Cruddur_Logical_Diagram.jpeg "Screenshot Cruddur Logical Diagram")
+![Screenshot](https://github.com/st3v3555888/aws-bootcamp-cruddur-2023/tree/main/_docs/assets/Cruddur_Logical_Diagram.jpeg "Cruddur Logical Diagram")
 
 
 ## Recreated Cruddur Logical Diagram vis lucid app
